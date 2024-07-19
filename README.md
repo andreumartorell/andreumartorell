@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Sass, Typescript, Tailwind**
 
-- 📫 How to reach me **anmartu@gmail.com**
+- 📫 How to reach me **andreu.martorell.ribera@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andreu-martorell/](https://www.linkedin.com/in/andreu-martorell/)
 
